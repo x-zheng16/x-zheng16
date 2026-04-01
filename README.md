@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=999999&color=CC103C&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=120&lines=Reinforcement+Learning+%7C+Trustworthy+AI;AI+Safety+%7C+Red+%26+Blue+Teaming;Embodied+AI+%7C+AI+for+Science;LLMs+%7C+Diffusion+Models+%7C+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=999999&color=DF7433&center=true&vCenter=true&repeat=false&width=680&height=30&lines=Reinforcement+Learning+%7C+Trustworthy+AI" alt="Line 1" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=999999&color=DA562B&center=true&vCenter=true&repeat=false&width=680&height=30&lines=AI+Safety+%7C+Red+%26+Blue+Teaming" alt="Line 2" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=999999&color=CC103C&center=true&vCenter=true&repeat=false&width=680&height=30&lines=Embodied+AI+%7C+AI+for+Science" alt="Line 3" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=999999&color=9F0D43&center=true&vCenter=true&repeat=false&width=680&height=30&lines=LLMs+%7C+Diffusion+Models+%7C+AI+Agents" alt="Line 4" />
 </p>
 
 <p align="center">
