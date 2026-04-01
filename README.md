@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=999999&color=CC103C&center=true&vCenter=true&repeat=false&width=850&lines=Reinforcement+Learning+%7C+Trustworthy+AI+%7C+AI+Safety+%7C+Embodied+AI+%7C+LLMs+%7C+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=999999&color=CC103C&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=120&lines=Reinforcement+Learning+%7C+Trustworthy+AI;AI+Safety+%7C+Red+%26+Blue+Teaming;Embodied+AI+%7C+Robot+Learning;LLMs+%7C+Diffusion+Models+%7C+AI+Agents;AI+for+Science" alt="Typing SVG" />
 </p>
 
 <p align="center">
