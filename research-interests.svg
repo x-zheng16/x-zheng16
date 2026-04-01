@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="155">
   <defs>
-    <linearGradient id="cityu-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="cityu-grad" x1="0%" y1="0%" x2="100%" y2="238%">
       <stop offset="0%" stop-color="#DF7433"/>
       <stop offset="25%" stop-color="#DA562B"/>
       <stop offset="50%" stop-color="#CC103C"/>
