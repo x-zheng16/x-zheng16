@@ -2,9 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DF7433,25:DA562B,50:CC103C,75:A62156,100:9F0D43&height=220&section=header&text=Xiang%20Zheng&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Research%20Assistant%20Professor%20%E2%80%A2%20HKAI-Sci%2C%20City%20University%20of%20Hong%20Kong&descAlignY=56&descSize=18&descColor=f0d0d8&animation=fadeIn" width="100%" alt="header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=CC103C&center=true&vCenter=true&multiline=false&width=680&lines=Reinforcement+Learning+%7C+Trustworthy+AI;AI+Safety+%7C+Red+%26+Blue+Teaming;Embodied+AI+%7C+Robot+Learning;LLMs+%7C+Diffusion+Models+%7C+AI+Agents" alt="Typing SVG" />
-</p>
+```console
+$ cat ~/research_interests
+  Reinforcement Learning    Trustworthy AI    AI Safety
+  Red & Blue Teaming        Embodied AI       Robot Learning
+  LLMs                      Diffusion Models  AI Agents
+
+$ cat ~/toolbox
+  Python  PyTorch  Claude Code  MuJoCo  LaTeX  Git
+```
 
 <p align="center">
   <a href="https://x-zheng16.github.io"><img src="https://img.shields.io/badge/Homepage-x--zheng16.github.io-CC103C?style=flat-square&logo=githubpages&logoColor=white" alt="Website" /></a>&nbsp;
@@ -88,21 +94,6 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=x-zheng16&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</p>
-
----
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/MuJoCo-00599C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
