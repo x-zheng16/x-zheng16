@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DF7433,25:DA562B,50:CC103C,75:A62156,100:9F0D43&height=220&section=header&text=Xiang%20Zheng&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Research%20Assistant%20Professor%20%E2%80%A2%20HKAI-Sci%2C%20City%20University%20of%20Hong%20Kong&descAlignY=56&descSize=18&descColor=f0d0d8&animation=fadeIn" width="100%" alt="header" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&multiline=false&width=320&height=40&lines=%24+claude;%24+cc;%24+rg;%24+python;%24+git+push;%24+uv+run;%24+tmux" alt="Terminal" />
+</p>
+
 ```console
 $ cat ~/research_interests
   Reinforcement Learning    Trustworthy AI    AI Safety
