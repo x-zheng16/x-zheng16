@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&multiline=false&width=320&height=40&lines=%24+claude;%24+cc;%24+rg;%24+python;%24+git+push;%24+uv+run;%24+tmux" alt="Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&multiline=false&width=320&height=40&lines=%24+claude;%24+cc;%24+rg;%24+python;%24+git;%24+uv;%24+tmux" alt="Terminal" />
 </p>
 
 ```console
