@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b40,60:1e3a6e,100:58a6ff&height=220&section=header&text=Xiang%20Zheng&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Research%20Assistant%20Professor%20%E2%80%A2%20HKAI-Sci%2C%20City%20University%20of%20Hong%20Kong&descAlignY=56&descSize=18&descColor=c9d1d9&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DF7433,25:DA562B,50:CC103C,75:A62156,100:9F0D43&height=220&section=header&text=Xiang%20Zheng&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Research%20Assistant%20Professor%20%E2%80%A2%20HKAI-Sci%2C%20City%20University%20of%20Hong%20Kong&descAlignY=56&descSize=18&descColor=f0d0d8&animation=fadeIn" width="100%" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=680&lines=Reinforcement+Learning+%7C+Trustworthy+AI;AI+Safety+%7C+Red+%26+Blue+Teaming;Embodied+AI+%7C+Robot+Learning;LLMs+%7C+Diffusion+Models+%7C+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=CC103C&center=true&vCenter=true&multiline=false&width=680&lines=Reinforcement+Learning+%7C+Trustworthy+AI;AI+Safety+%7C+Red+%26+Blue+Teaming;Embodied+AI+%7C+Robot+Learning;LLMs+%7C+Diffusion+Models+%7C+AI+Agents" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://x-zheng16.github.io"><img src="https://img.shields.io/badge/Homepage-x--zheng16.github.io-58a6ff?style=flat-square&logo=githubpages&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="https://x-zheng16.github.io"><img src="https://img.shields.io/badge/Homepage-x--zheng16.github.io-CC103C?style=flat-square&logo=githubpages&logoColor=white" alt="Website" /></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=lqirTjkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;
   <a href="mailto:xiang.zheng@cityu.edu.hk"><img src="https://img.shields.io/badge/Email-xiang.zheng%40cityu.edu.hk-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=x-zheng16&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=x-zheng16&style=flat-square&color=CC103C&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
@@ -32,12 +32,12 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 ### Featured Research
 
 <p align="center">
-  <a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=Awesome-Embodied-AI-Safety&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Awesome-Embodied-AI-Safety" /></a>
-  <a href="https://github.com/x-zheng16/JustAsk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=JustAsk&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="JustAsk" /></a>
+  <a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=Awesome-Embodied-AI-Safety&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="Awesome-Embodied-AI-Safety" /></a>
+  <a href="https://github.com/x-zheng16/JustAsk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=JustAsk&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="JustAsk" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/x-zheng16/System-Prompt-Open"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=System-Prompt-Open&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="System-Prompt-Open" /></a>
-  <a href="https://github.com/x-zheng16/OpenRedRL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=OpenRedRL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="OpenRedRL" /></a>
+  <a href="https://github.com/x-zheng16/System-Prompt-Open"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=System-Prompt-Open&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="System-Prompt-Open" /></a>
+  <a href="https://github.com/x-zheng16/OpenRedRL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=OpenRedRL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="OpenRedRL" /></a>
 </p>
 
 ---
@@ -64,11 +64,11 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=x-zheng16&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=x-zheng16&show_icons=true&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C&text_color=c9d1d9&ring_color=CC103C" />
     <img src="https://github-readme-stats.vercel.app/api?username=x-zheng16&show_icons=true&hide_border=true" height="170" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=x-zheng16&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=x-zheng16&hide_border=true&background=0d1117&ring=CC103C&fire=CC103C&currStreakLabel=CC103C&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
     <img src="https://streak-stats.demolab.com/?user=x-zheng16&hide_border=true" height="170" alt="GitHub Streak" />
   </picture>
 </p>
@@ -104,5 +104,5 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,30:1e3a6e,60:161b40,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F0D43,25:A62156,50:CC103C,75:DA562B,100:DF7433&height=120&section=footer" width="100%" alt="footer" />
 </p>
