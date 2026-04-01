@@ -60,12 +60,12 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 | 2026 | [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/) | Preprint |
 | 2026 | [GenBreak: Red Teaming Text-to-Image Generators Using LLMs](https://arxiv.org/abs/2506.10047) | **CVPR** |
 | 2026 | [RedRFT: A Light-Weight Benchmark for RL-Based Red Teaming](https://arxiv.org/abs/2506.04302) | **FCS** |
-| 2026 | Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety | **FnT P&S** |
+| 2026 | [Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety](https://arxiv.org/abs/2502.05206) | **FnT P&S** |
 | 2025 | [BlueSuffix: Reinforced Blue Teaming for VLMs Against Jailbreak Attacks](https://arxiv.org/abs/2410.20971) | **ICLR** |
 | 2025 | [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) | **AAAI** |
-| 2024 | Constrained Intrinsic Motivation for Reinforcement Learning | **IJCAI** |
-| 2024 | Toward Evaluating Robustness of RL with Adversarial Policy | **DSN** |
-| 2020 | Clean-Label Backdoor Attacks on Video Recognition Models | **CVPR** |
+| 2024 | [Constrained Intrinsic Motivation for Reinforcement Learning](https://arxiv.org/abs/2407.09247) | **IJCAI** |
+| 2024 | [Toward Evaluating Robustness of RL with Adversarial Policy](https://arxiv.org/abs/2305.02605) | **DSN** |
+| 2020 | [Clean-Label Backdoor Attacks on Video Recognition Models](https://scholar.google.com/citations?user=lqirTjkAAAAJ) | **CVPR** |
 
 <p align="right"><a href="https://scholar.google.com/citations?user=lqirTjkAAAAJ"><i>Full list on Google Scholar</i></a></p>
 
