@@ -33,27 +33,27 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 
 | Repository | Description | Stars |
 | ---------- | ----------- | :---: |
-| [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) | Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses (400+ Papers) | ![](https://img.shields.io/github/stars/x-zheng16/Awesome-Embodied-AI-Safety?style=flat-square&color=CC103C) |
-| [JustAsk](https://github.com/x-zheng16/JustAsk) | Curious Code Agents Reveal System Prompts in Frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/JustAsk?style=flat-square&color=CC103C) |
-| [System-Prompt-Open](https://github.com/x-zheng16/System-Prompt-Open) | Open database of system prompts extracted from frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/System-Prompt-Open?style=flat-square&color=CC103C) |
-| [OpenRedRL](https://github.com/x-zheng16/OpenRedRL) | OpenRedRL: A Light-Weight Benchmark for RL-Based Red Teaming | ![](https://img.shields.io/github/stars/x-zheng16/OpenRedRL?style=flat-square&color=CC103C) |
-
+| [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) | Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses (400+ Papers) | ![](https://img.shields.io/github/stars/x-zheng16/Awesome-Embodied-AI-Safety?style=social) |
+| [JustAsk](https://github.com/x-zheng16/JustAsk) | Curious Code Agents Reveal System Prompts in Frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/JustAsk?style=social) |
+| [System-Prompt-Open](https://github.com/x-zheng16/System-Prompt-Open) | Open database of system prompts extracted from frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/System-Prompt-Open?style=social) |
+| [OpenRedRL](https://github.com/x-zheng16/OpenRedRL) | OpenRedRL: A Light-Weight Benchmark for RL-Based Red Teaming | ![](https://img.shields.io/github/stars/x-zheng16/OpenRedRL?style=social) |
+| [ISC-Bench](https://github.com/x-zheng16/ISC-Bench)   | ISC-Bench: Internal Safety Collapse in Frontier LLMs          | ![](https://img.shields.io/github/stars/x-zheng16/ISC-Bench?style=social)   |
 
 ---
 
 ### Selected Publications
 
-| Year    | Paper | Venue |
+| Date    | Paper | Venue |
 | :-----: | ----- | :---: |
 | 2026.03 | [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/) | Preprint |
-| 2026.06 | [GenBreak: Red Teaming Text-to-Image Generators Using LLMs](https://arxiv.org/abs/2506.10047) | **CVPR** |
-| 2026.06 | [RedRFT: A Light-Weight Benchmark for RL-Based Red Teaming](https://arxiv.org/abs/2506.04302) | **FCS** |
-| 2026.03 | [JustAsk: Curious Code Agents Reveal System Prompts in Frontier LLMs](https://github.com/x-zheng16/JustAsk) | Preprint |
-| 2026.02 | [Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety](https://arxiv.org/abs/2502.05206) | **FnT P&S** |
-| 2025.05 | [BlueSuffix: Reinforced Blue Teaming for VLMs Against Jailbreak Attacks](https://arxiv.org/abs/2410.20971) | **ICLR** |
-| 2025.02 | [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) | **AAAI** |
-| 2024.08 | [Constrained Intrinsic Motivation for Reinforcement Learning](https://arxiv.org/abs/2407.09247) | **IJCAI** |
-| 2024.06 | [Toward Evaluating Robustness of RL with Adversarial Policy](https://arxiv.org/abs/2305.02605) | **DSN** |
+| 2026.03 | [RedRFT: A Light-Weight Benchmark for RL-Based Red Teaming](https://arxiv.org/abs/2506.04302) | **FCS** |
+| 2026.02 | [GenBreak: Red Teaming Text-to-Image Generators Using LLMs](https://arxiv.org/abs/2506.10047) | **CVPR** |
+| 2026.01 | [Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs](https://arxiv.org/abs/2601.21233) | Preprint |
+| 2026.01 | [Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety](https://arxiv.org/abs/2502.05206) | **FnT P&S** |
+| 2025.01 | [BlueSuffix: Reinforced Blue Teaming for VLMs Against Jailbreak Attacks](https://arxiv.org/abs/2410.20971) | **ICLR** |
+| 2024.12 | [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) | **AAAI** |
+| 2024.04 | [Constrained Intrinsic Motivation for Reinforcement Learning](https://arxiv.org/abs/2407.09247) | **IJCAI** |
+| 2024.03 | [Toward Evaluating Robustness of RL with Adversarial Policy](https://arxiv.org/abs/2305.02605) | **DSN** |
 | 2020.06 | [Clean-Label Backdoor Attacks on Video Recognition Models](https://scholar.google.com/citations?user=lqirTjkAAAAJ) | **CVPR** |
 
 <p align="right"><a href="https://scholar.google.com/citations?user=lqirTjkAAAAJ"><i>Full list on Google Scholar</i></a></p>
@@ -65,10 +65,6 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=x-zheng16&hide_border=true&background=0d1117&ring=CC103C&fire=CC103C&currStreakLabel=CC103C&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170" alt="GitHub Streak" />
 </p>
-
----
-
-### Activity
 
 <p align="center">
   <picture>
@@ -83,6 +79,14 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
     <source media="(prefers-color-scheme: dark)" srcset="gh-heatmap-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="gh-heatmap-light.svg" />
     <img alt="GitHub contribution heatmap" src="gh-heatmap-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x-zheng16/x-zheng16/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x-zheng16/x-zheng16/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/x-zheng16/x-zheng16/output/github-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
