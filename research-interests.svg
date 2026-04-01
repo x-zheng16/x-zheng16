@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="130">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="155">
   <defs>
     <linearGradient id="cityu-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#DF7433"/>
@@ -9,7 +9,7 @@
     </linearGradient>
   </defs>
   <text fill="url(#cityu-grad)" font-family="'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace" font-weight="500" font-size="22" text-anchor="middle">
-    <tspan x="340" dy="0">Reinforcement Learning | Trustworthy AI</tspan>
+    <tspan x="340" dy="28">Reinforcement Learning | Trustworthy AI</tspan>
     <tspan x="340" dy="32">AI Safety | Red &amp; Blue Teaming</tspan>
     <tspan x="340" dy="32">Embodied AI | AI for Science</tspan>
     <tspan x="340" dy="32">LLMs | Diffusion Models | AI Agents</tspan>
