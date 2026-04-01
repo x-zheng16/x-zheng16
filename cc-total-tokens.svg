@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="798" height="60">
+  <defs>
+    <linearGradient id="cityu-grad" x1="0" y1="60" x2="798" y2="-374" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#DF7433"/>
+      <stop offset="25%" stop-color="#DA562B"/>
+      <stop offset="50%" stop-color="#CC103C"/>
+      <stop offset="75%" stop-color="#A62156"/>
+      <stop offset="100%" stop-color="#9F0D43"/>
+    </linearGradient>
+  </defs>
+  <text fill="url(#cityu-grad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <tspan x="399" y="38" font-size="32" font-weight="700">1.4B</tspan>
+    <tspan font-size="18" font-weight="400"> total tokens</tspan>
+  </text>
+</svg>
