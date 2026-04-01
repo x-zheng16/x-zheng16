@@ -42,6 +42,19 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 
 ---
 
+### Claude Code Ecosystem
+
+<p align="center">
+  <a href="https://github.com/x-zheng16/uclaw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=uclaw&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="uclaw" /></a>
+  <a href="https://github.com/x-zheng16/cc-swarm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=cc-swarm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="cc-swarm" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/x-zheng16/cc-sciencepal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=cc-sciencepal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="cc-sciencepal" /></a>
+  <a href="https://github.com/x-zheng16/cc-hud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=cc-hud&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="cc-hud" /></a>
+</p>
+
+---
+
 ### Selected Publications
 
 | Year | Paper | Venue |
