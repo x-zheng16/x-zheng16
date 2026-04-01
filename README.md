@@ -31,14 +31,12 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 
 ### Featured Research
 
-<p align="center">
-  <a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=Awesome-Embodied-AI-Safety&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="Awesome-Embodied-AI-Safety" /></a>
-  <a href="https://github.com/x-zheng16/JustAsk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=JustAsk&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="JustAsk" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/x-zheng16/System-Prompt-Open"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=System-Prompt-Open&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="System-Prompt-Open" /></a>
-  <a href="https://github.com/x-zheng16/OpenRedRL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-zheng16&repo=OpenRedRL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C" alt="OpenRedRL" /></a>
-</p>
+| Repository | Description | Stars |
+| ---------- | ----------- | :---: |
+| [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) | Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses (400+ Papers) | 46 |
+| [JustAsk](https://github.com/x-zheng16/JustAsk) | Curious Code Agents Reveal System Prompts in Frontier LLMs | 43 |
+| [System-Prompt-Open](https://github.com/x-zheng16/System-Prompt-Open) | Open database of system prompts extracted from frontier LLMs | 24 |
+| [OpenRedRL](https://github.com/x-zheng16/OpenRedRL) | OpenRedRL: A Light-Weight Benchmark for RL-Based Red Teaming | 6 |
 
 
 ---
@@ -65,12 +63,7 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x-zheng16&show_icons=true&hide_border=true&bg_color=0d1117&title_color=CC103C&icon_color=CC103C&text_color=c9d1d9&ring_color=CC103C" height="170" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=x-zheng16&hide_border=true&background=0d1117&ring=CC103C&fire=CC103C&currStreakLabel=CC103C&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=x-zheng16&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ---
