@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://x-zheng16.github.io"><img src="https://img.shields.io/badge/Homepage-x--zheng16.github.io-CC103C?style=flat-square&logo=githubpages&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="https://x-zheng16.github.io"><img src="https://img.shields.io/badge/Homepage-x--zheng16.github.io-CC103C?style=flat-square&logo=homepage&logoColor=white" alt="Website" /></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=lqirTjkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;
-  <a href="mailto:xiang.zheng@cityu.edu.hk"><img src="https://img.shields.io/badge/Email-xiang.zheng%40cityu.edu.hk-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="mailto:xiang.zheng@cityu.edu.hk"><img src="https://img.shields.io/badge/Email-xiang.zheng%40cityu.edu.hk-0078D4?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=x-zheng16&style=flat-square&color=CC103C&label=Profile+Views" alt="Profile Views" />
 </p>
 
