@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=999999&color=DF7433&center=true&vCenter=true&repeat=false&width=680&height=30&lines=Reinforcement+Learning+%7C+Trustworthy+AI" alt="Line 1" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=999999&color=DA562B&center=true&vCenter=true&repeat=false&width=680&height=30&lines=AI+Safety+%7C+Red+%26+Blue+Teaming" alt="Line 2" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=999999&color=CC103C&center=true&vCenter=true&repeat=false&width=680&height=30&lines=Embodied+AI+%7C+AI+for+Science" alt="Line 3" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=999999&color=9F0D43&center=true&vCenter=true&repeat=false&width=680&height=30&lines=LLMs+%7C+Diffusion+Models+%7C+AI+Agents" alt="Line 4" />
+  <img src="research-interests.svg" alt="Research Interests" />
 </p>
 
 <p align="center">
@@ -48,7 +45,7 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 
 ### Selected Publications
 
-| Date    | Paper | Venue |
+| Year    | Paper | Venue |
 | :-----: | ----- | :---: |
 | 2026.03 | [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/) | Preprint |
 | 2026.06 | [GenBreak: Red Teaming Text-to-Image Generators Using LLMs](https://arxiv.org/abs/2506.10047) | **CVPR** |
@@ -77,8 +74,6 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 </p>
 
 ---
-
-### Claude Code Activity
 
 <p align="center">
   <picture>
