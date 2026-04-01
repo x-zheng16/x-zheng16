@@ -33,10 +33,10 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 
 | Repository | Description | Stars |
 | ---------- | ----------- | :---: |
-| [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) | Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses (400+ Papers) | 46 |
-| [JustAsk](https://github.com/x-zheng16/JustAsk) | Curious Code Agents Reveal System Prompts in Frontier LLMs | 43 |
-| [System-Prompt-Open](https://github.com/x-zheng16/System-Prompt-Open) | Open database of system prompts extracted from frontier LLMs | 24 |
-| [OpenRedRL](https://github.com/x-zheng16/OpenRedRL) | OpenRedRL: A Light-Weight Benchmark for RL-Based Red Teaming | 6 |
+| [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) | Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses (400+ Papers) | ![](https://img.shields.io/github/stars/x-zheng16/Awesome-Embodied-AI-Safety?style=flat-square&color=CC103C) |
+| [JustAsk](https://github.com/x-zheng16/JustAsk) | Curious Code Agents Reveal System Prompts in Frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/JustAsk?style=flat-square&color=CC103C) |
+| [System-Prompt-Open](https://github.com/x-zheng16/System-Prompt-Open) | Open database of system prompts extracted from frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/System-Prompt-Open?style=flat-square&color=CC103C) |
+| [OpenRedRL](https://github.com/x-zheng16/OpenRedRL) | OpenRedRL: A Light-Weight Benchmark for RL-Based Red Teaming | ![](https://img.shields.io/github/stars/x-zheng16/OpenRedRL?style=flat-square&color=CC103C) |
 
 
 ---
