@@ -32,7 +32,7 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 ### Featured Research
 
 | Repository | Description | Stars |
-| ---------- | ----------- | :---: |
+| ---------- | ----------- | ----- |
 | [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) | Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses (400+ Papers) | ![](https://img.shields.io/github/stars/x-zheng16/Awesome-Embodied-AI-Safety?style=social) |
 | [JustAsk](https://github.com/x-zheng16/JustAsk) | Curious Code Agents Reveal System Prompts in Frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/JustAsk?style=social) |
 | [System-Prompt-Open](https://github.com/x-zheng16/System-Prompt-Open) | Open database of system prompts extracted from frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/System-Prompt-Open?style=social) |
@@ -45,10 +45,10 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 
 | Date    | Paper | Venue |
 | :-----: | ----- | :---: |
-| 2026.03 | [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/) | Preprint |
+| 2026.03 | [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/) | GitHub Preprint |
 | 2026.03 | [RedRFT: A Light-Weight Benchmark for RL-Based Red Teaming](https://arxiv.org/abs/2506.04302) | **FCS** |
 | 2026.02 | [GenBreak: Red Teaming Text-to-Image Generators Using LLMs](https://arxiv.org/abs/2506.10047) | **CVPR** |
-| 2026.01 | [Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs](https://arxiv.org/abs/2601.21233) | Preprint |
+| 2026.01 | [Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs](https://arxiv.org/abs/2601.21233) | arXiv Preprint |
 | 2026.01 | [Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety](https://arxiv.org/abs/2502.05206) | **FnT P&S** |
 | 2025.01 | [BlueSuffix: Reinforced Blue Teaming for VLMs Against Jailbreak Attacks](https://arxiv.org/abs/2410.20971) | **ICLR** |
 | 2024.12 | [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) | **AAAI** |
@@ -61,6 +61,10 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 ---
 
 ### GitHub Stats
+
+<p align="center">
+  <b>1.4B</b> total tokens &nbsp;&nbsp;&bull;&nbsp;&nbsp; <b>315</b> total contributions
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=x-zheng16&hide_border=true&background=0d1117&ring=CC103C&fire=CC103C&currStreakLabel=CC103C&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170" alt="GitHub Streak" />
