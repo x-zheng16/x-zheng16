@@ -75,6 +75,18 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 
 ---
 
+### Claude Code Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="cc-heatmap-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="cc-heatmap-light.svg" />
+    <img alt="Claude Code usage heatmap" src="cc-heatmap-dark.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
 ### Tech Stack
 
 <p align="center">
