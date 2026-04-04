@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="155">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="120">
   <defs>
-    <linearGradient id="cityu-grad" x1="0" y1="155" x2="680" y2="-214" gradientUnits="userSpaceOnUse">
+    <linearGradient id="cityu-grad" x1="0" y1="120" x2="680" y2="-214" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#DF7433"/>
       <stop offset="25%" stop-color="#DA562B"/>
       <stop offset="50%" stop-color="#CC103C"/>
@@ -10,8 +10,7 @@
   </defs>
   <text fill="url(#cityu-grad)" font-family="'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace" font-weight="500" font-size="22" text-anchor="middle">
     <tspan x="340" dy="28">Reinforcement Learning | Trustworthy AI</tspan>
-    <tspan x="340" dy="32">AI Safety | Red &amp; Blue Teaming</tspan>
+    <tspan x="340" dy="32">Red &amp; Blue Teaming | AI Agents</tspan>
     <tspan x="340" dy="32">Embodied AI | AI for Science</tspan>
-    <tspan x="340" dy="32">LLMs | Diffusion Models | AI Agents</tspan>
   </text>
 </svg>
