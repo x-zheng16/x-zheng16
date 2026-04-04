@@ -37,7 +37,7 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 | [JustAsk](https://github.com/x-zheng16/JustAsk) | Curious Code Agents Reveal System Prompts in Frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/JustAsk?style=social) |
 | [System-Prompt-Open](https://github.com/x-zheng16/System-Prompt-Open) | Open database of system prompts extracted from frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/System-Prompt-Open?style=social) |
 | [OpenRedRL](https://github.com/x-zheng16/OpenRedRL) | OpenRedRL: A Light-Weight Benchmark for RL-Based Red Teaming | ![](https://img.shields.io/github/stars/x-zheng16/OpenRedRL?style=social) |
-| [ISC-Bench](https://github.com/x-zheng16/ISC-Bench)   | ISC-Bench: Internal Safety Collapse in Frontier LLMs          | ![](https://img.shields.io/github/stars/x-zheng16/ISC-Bench?style=social)   |
+| [ISC-Bench](https://github.com/wuyoscar/ISC-Bench)    | ISC-Bench: Internal Safety Collapse in Frontier LLMs          | ![](https://img.shields.io/github/stars/wuyoscar/ISC-Bench?style=social)    |
 
 ---
 
@@ -63,7 +63,7 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 ### GitHub Stats
 
 <p align="center">
-  <img src="cc-total-tokens.svg" alt="28.0B total tokens" />
+  <img src="cc-total-tokens.svg" alt="29.1B total tokens" />
 </p>
 
 <p align="center">
