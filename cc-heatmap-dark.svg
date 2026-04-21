@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="798" height="193">
   <rect width="798" height="193" rx="6" fill="#0d1117"/>
   <text x="36" y="22" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Claude Code Activity</text>
-  <text x="36" y="40" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">46.7B tokens in the last year</text>
+  <text x="36" y="40" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">49.1B tokens in the last year</text>
   <text x="64" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">May</text>
   <text x="120" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Jun</text>
   <text x="190" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Jul</text>
@@ -1077,7 +1077,7 @@
     <title>18,834 messages on 2026-04-07</title>
   </rect>
   <rect x="736" y="97" width="11" height="11" rx="2" fill="#ff2d55">
-    <title>27,203 messages on 2026-04-08</title>
+    <title>27,409 messages on 2026-04-08</title>
   </rect>
   <rect x="736" y="111" width="11" height="11" rx="2" fill="#CC103C">
     <title>6,679 messages on 2026-04-09</title>
@@ -1098,7 +1098,7 @@
     <title>26,723 messages on 2026-04-14</title>
   </rect>
   <rect x="750" y="97" width="11" height="11" rx="2" fill="#ff2d55">
-    <title>20,570 messages on 2026-04-15</title>
+    <title>20,601 messages on 2026-04-15</title>
   </rect>
   <rect x="750" y="111" width="11" height="11" rx="2" fill="#ff2d55">
     <title>22,104 messages on 2026-04-16</title>
@@ -1110,13 +1110,16 @@
     <title>11,553 messages on 2026-04-18</title>
   </rect>
   <rect x="764" y="55" width="11" height="11" rx="2" fill="#ff2d55">
-    <title>28,960 messages on 2026-04-19</title>
+    <title>32,121 messages on 2026-04-19</title>
   </rect>
   <rect x="764" y="69" width="11" height="11" rx="2" fill="#ff2d55">
-    <title>20,838 messages on 2026-04-20</title>
+    <title>35,659 messages on 2026-04-20</title>
   </rect>
-  <rect x="764" y="83" width="11" height="11" rx="2" fill="#161b22">
-    <title>No activity on 2026-04-21</title>
+  <rect x="764" y="83" width="11" height="11" rx="2" fill="#ff2d55">
+    <title>24,299 messages on 2026-04-21</title>
+  </rect>
+  <rect x="764" y="97" width="11" height="11" rx="2" fill="#161b22">
+    <title>No activity on 2026-04-22</title>
   </rect>
   <text x="36" y="168" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Less</text>
   <rect x="66" y="159" width="11" height="11" rx="2" fill="#161b22"/>
@@ -1125,5 +1128,5 @@
   <rect x="105" y="159" width="11" height="11" rx="2" fill="#CC103C"/>
   <rect x="118" y="159" width="11" height="11" rx="2" fill="#ff2d55"/>
   <text x="135" y="168" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">More</text>
-  <text x="598" y="168" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Current streak: 0d  |  Longest: 55d</text>
+  <text x="598" y="168" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Current streak: 0d  |  Longest: 56d</text>
 </svg>
