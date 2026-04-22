@@ -63,7 +63,7 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 ### GitHub Stats
 
 <p align="center">
-  <img src="cc-total-tokens.svg" alt="49.1B total tokens" />
+  <img src="cc-total-tokens.svg" alt="50.2B total tokens" />
 </p>
 
 <p align="center">
