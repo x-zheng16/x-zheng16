@@ -1,1128 +1,1116 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="798" height="193">
   <rect width="798" height="193" rx="6" fill="#0d1117"/>
   <text x="36" y="22" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Claude Code Activity</text>
-  <text x="36" y="40" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">50.2B tokens in the last year</text>
-  <text x="64" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">May</text>
-  <text x="120" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Jun</text>
-  <text x="190" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Jul</text>
-  <text x="246" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Aug</text>
-  <text x="316" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Sep</text>
-  <text x="372" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Oct</text>
-  <text x="428" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Nov</text>
-  <text x="498" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Dec</text>
-  <text x="554" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Jan</text>
-  <text x="610" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Feb</text>
-  <text x="666" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Mar</text>
-  <text x="736" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Apr</text>
+  <text x="36" y="40" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">55.3B tokens in the last year</text>
+  <text x="50" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">May</text>
+  <text x="106" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Jun</text>
+  <text x="176" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Jul</text>
+  <text x="232" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Aug</text>
+  <text x="302" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Sep</text>
+  <text x="358" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Oct</text>
+  <text x="414" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Nov</text>
+  <text x="484" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Dec</text>
+  <text x="540" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Jan</text>
+  <text x="596" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Feb</text>
+  <text x="652" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Mar</text>
+  <text x="722" y="51" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Apr</text>
   <text x="0" y="79" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Mon</text>
   <text x="0" y="107" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Wed</text>
   <text x="0" y="135" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Fri</text>
   <rect x="36" y="55" width="11" height="11" rx="2" fill="#161b22">
-    <title>No activity on 2025-04-20</title>
-  </rect>
-  <rect x="36" y="69" width="11" height="11" rx="2" fill="#161b22">
-    <title>No activity on 2025-04-21</title>
-  </rect>
-  <rect x="36" y="83" width="11" height="11" rx="2" fill="#161b22">
-    <title>No activity on 2025-04-22</title>
-  </rect>
-  <rect x="36" y="97" width="11" height="11" rx="2" fill="#161b22">
-    <title>No activity on 2025-04-23</title>
-  </rect>
-  <rect x="36" y="111" width="11" height="11" rx="2" fill="#161b22">
-    <title>No activity on 2025-04-24</title>
-  </rect>
-  <rect x="36" y="125" width="11" height="11" rx="2" fill="#161b22">
-    <title>No activity on 2025-04-25</title>
-  </rect>
-  <rect x="36" y="139" width="11" height="11" rx="2" fill="#161b22">
-    <title>No activity on 2025-04-26</title>
-  </rect>
-  <rect x="50" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-04-27</title>
   </rect>
-  <rect x="50" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="36" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-04-28</title>
   </rect>
-  <rect x="50" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="36" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-04-29</title>
   </rect>
-  <rect x="50" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="36" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-04-30</title>
   </rect>
-  <rect x="50" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="36" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-01</title>
   </rect>
-  <rect x="50" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="36" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-02</title>
   </rect>
-  <rect x="50" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="36" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-03</title>
   </rect>
-  <rect x="64" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="50" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-04</title>
   </rect>
-  <rect x="64" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="50" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-05</title>
   </rect>
-  <rect x="64" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="50" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-06</title>
   </rect>
-  <rect x="64" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="50" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-07</title>
   </rect>
-  <rect x="64" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="50" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-08</title>
   </rect>
-  <rect x="64" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="50" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-09</title>
   </rect>
-  <rect x="64" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="50" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-10</title>
   </rect>
-  <rect x="78" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="64" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-11</title>
   </rect>
-  <rect x="78" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="64" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-12</title>
   </rect>
-  <rect x="78" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="64" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-13</title>
   </rect>
-  <rect x="78" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="64" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-14</title>
   </rect>
-  <rect x="78" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="64" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-15</title>
   </rect>
-  <rect x="78" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="64" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-16</title>
   </rect>
-  <rect x="78" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="64" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-17</title>
   </rect>
-  <rect x="92" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="78" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-18</title>
   </rect>
-  <rect x="92" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="78" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-19</title>
   </rect>
-  <rect x="92" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="78" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-20</title>
   </rect>
-  <rect x="92" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="78" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-21</title>
   </rect>
-  <rect x="92" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="78" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-22</title>
   </rect>
-  <rect x="92" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="78" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-23</title>
   </rect>
-  <rect x="92" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="78" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-24</title>
   </rect>
-  <rect x="106" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="92" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-25</title>
   </rect>
-  <rect x="106" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="92" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-26</title>
   </rect>
-  <rect x="106" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="92" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-27</title>
   </rect>
-  <rect x="106" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="92" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-28</title>
   </rect>
-  <rect x="106" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="92" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-29</title>
   </rect>
-  <rect x="106" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="92" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-30</title>
   </rect>
-  <rect x="106" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="92" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-05-31</title>
   </rect>
-  <rect x="120" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="106" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-01</title>
   </rect>
-  <rect x="120" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="106" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-02</title>
   </rect>
-  <rect x="120" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="106" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-03</title>
   </rect>
-  <rect x="120" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="106" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-04</title>
   </rect>
-  <rect x="120" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="106" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-05</title>
   </rect>
-  <rect x="120" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="106" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-06</title>
   </rect>
-  <rect x="120" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="106" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-07</title>
   </rect>
-  <rect x="134" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="120" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-08</title>
   </rect>
-  <rect x="134" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="120" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-09</title>
   </rect>
-  <rect x="134" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="120" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-10</title>
   </rect>
-  <rect x="134" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="120" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-11</title>
   </rect>
-  <rect x="134" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="120" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-12</title>
   </rect>
-  <rect x="134" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="120" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-13</title>
   </rect>
-  <rect x="134" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="120" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-14</title>
   </rect>
-  <rect x="148" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="134" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-15</title>
   </rect>
-  <rect x="148" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="134" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-16</title>
   </rect>
-  <rect x="148" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="134" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-17</title>
   </rect>
-  <rect x="148" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="134" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-18</title>
   </rect>
-  <rect x="148" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="134" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-19</title>
   </rect>
-  <rect x="148" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="134" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-20</title>
   </rect>
-  <rect x="148" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="134" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-21</title>
   </rect>
-  <rect x="162" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="148" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-22</title>
   </rect>
-  <rect x="162" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="148" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-23</title>
   </rect>
-  <rect x="162" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="148" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-24</title>
   </rect>
-  <rect x="162" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="148" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-25</title>
   </rect>
-  <rect x="162" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="148" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-26</title>
   </rect>
-  <rect x="162" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="148" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-27</title>
   </rect>
-  <rect x="162" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="148" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-28</title>
   </rect>
-  <rect x="176" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="162" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-29</title>
   </rect>
-  <rect x="176" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="162" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-06-30</title>
   </rect>
-  <rect x="176" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="162" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-01</title>
   </rect>
-  <rect x="176" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="162" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-02</title>
   </rect>
-  <rect x="176" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="162" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-03</title>
   </rect>
-  <rect x="176" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="162" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-04</title>
   </rect>
-  <rect x="176" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="162" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-05</title>
   </rect>
-  <rect x="190" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="176" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-06</title>
   </rect>
-  <rect x="190" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="176" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-07</title>
   </rect>
-  <rect x="190" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="176" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-08</title>
   </rect>
-  <rect x="190" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="176" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-09</title>
   </rect>
-  <rect x="190" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="176" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-10</title>
   </rect>
-  <rect x="190" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="176" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-11</title>
   </rect>
-  <rect x="190" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="176" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-12</title>
   </rect>
-  <rect x="204" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="190" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-13</title>
   </rect>
-  <rect x="204" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="190" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-14</title>
   </rect>
-  <rect x="204" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="190" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-15</title>
   </rect>
-  <rect x="204" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="190" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-16</title>
   </rect>
-  <rect x="204" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="190" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-17</title>
   </rect>
-  <rect x="204" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="190" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-18</title>
   </rect>
-  <rect x="204" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="190" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-19</title>
   </rect>
-  <rect x="218" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="204" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-20</title>
   </rect>
-  <rect x="218" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="204" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-21</title>
   </rect>
-  <rect x="218" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="204" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-22</title>
   </rect>
-  <rect x="218" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="204" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-23</title>
   </rect>
-  <rect x="218" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="204" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-24</title>
   </rect>
-  <rect x="218" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="204" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-25</title>
   </rect>
-  <rect x="218" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="204" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-26</title>
   </rect>
-  <rect x="232" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="218" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-27</title>
   </rect>
-  <rect x="232" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="218" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-28</title>
   </rect>
-  <rect x="232" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="218" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-29</title>
   </rect>
-  <rect x="232" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="218" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-30</title>
   </rect>
-  <rect x="232" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="218" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-07-31</title>
   </rect>
-  <rect x="232" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="218" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-01</title>
   </rect>
-  <rect x="232" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="218" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-02</title>
   </rect>
-  <rect x="246" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="232" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-03</title>
   </rect>
-  <rect x="246" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="232" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-04</title>
   </rect>
-  <rect x="246" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="232" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-05</title>
   </rect>
-  <rect x="246" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="232" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-06</title>
   </rect>
-  <rect x="246" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="232" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-07</title>
   </rect>
-  <rect x="246" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="232" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-08</title>
   </rect>
-  <rect x="246" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="232" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-09</title>
   </rect>
-  <rect x="260" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="246" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-10</title>
   </rect>
-  <rect x="260" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="246" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-11</title>
   </rect>
-  <rect x="260" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="246" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-12</title>
   </rect>
-  <rect x="260" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="246" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-13</title>
   </rect>
-  <rect x="260" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="246" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-14</title>
   </rect>
-  <rect x="260" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="246" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-15</title>
   </rect>
-  <rect x="260" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="246" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-16</title>
   </rect>
-  <rect x="274" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="260" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-17</title>
   </rect>
-  <rect x="274" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="260" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-18</title>
   </rect>
-  <rect x="274" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="260" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-19</title>
   </rect>
-  <rect x="274" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="260" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-20</title>
   </rect>
-  <rect x="274" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="260" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-21</title>
   </rect>
-  <rect x="274" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="260" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-22</title>
   </rect>
-  <rect x="274" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="260" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-23</title>
   </rect>
-  <rect x="288" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="274" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-24</title>
   </rect>
-  <rect x="288" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="274" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-25</title>
   </rect>
-  <rect x="288" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="274" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-26</title>
   </rect>
-  <rect x="288" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="274" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-27</title>
   </rect>
-  <rect x="288" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="274" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-28</title>
   </rect>
-  <rect x="288" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="274" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-29</title>
   </rect>
-  <rect x="288" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="274" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-30</title>
   </rect>
-  <rect x="302" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="288" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-08-31</title>
   </rect>
-  <rect x="302" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="288" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-01</title>
   </rect>
-  <rect x="302" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="288" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-02</title>
   </rect>
-  <rect x="302" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="288" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-03</title>
   </rect>
-  <rect x="302" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="288" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-04</title>
   </rect>
-  <rect x="302" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="288" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-05</title>
   </rect>
-  <rect x="302" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="288" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-06</title>
   </rect>
-  <rect x="316" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="302" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-07</title>
   </rect>
-  <rect x="316" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="302" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-08</title>
   </rect>
-  <rect x="316" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="302" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-09</title>
   </rect>
-  <rect x="316" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="302" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-10</title>
   </rect>
-  <rect x="316" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="302" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-11</title>
   </rect>
-  <rect x="316" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="302" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-12</title>
   </rect>
-  <rect x="316" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="302" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-13</title>
   </rect>
-  <rect x="330" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="316" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-14</title>
   </rect>
-  <rect x="330" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="316" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-15</title>
   </rect>
-  <rect x="330" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="316" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-16</title>
   </rect>
-  <rect x="330" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="316" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-17</title>
   </rect>
-  <rect x="330" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="316" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-18</title>
   </rect>
-  <rect x="330" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="316" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-19</title>
   </rect>
-  <rect x="330" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="316" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-20</title>
   </rect>
-  <rect x="344" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="330" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-21</title>
   </rect>
-  <rect x="344" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="330" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-22</title>
   </rect>
-  <rect x="344" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="330" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-23</title>
   </rect>
-  <rect x="344" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="330" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-24</title>
   </rect>
-  <rect x="344" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="330" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-25</title>
   </rect>
-  <rect x="344" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="330" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-26</title>
   </rect>
-  <rect x="344" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="330" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-27</title>
   </rect>
-  <rect x="358" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="344" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-28</title>
   </rect>
-  <rect x="358" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="344" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-29</title>
   </rect>
-  <rect x="358" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="344" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-09-30</title>
   </rect>
-  <rect x="358" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="344" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-01</title>
   </rect>
-  <rect x="358" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="344" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-02</title>
   </rect>
-  <rect x="358" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="344" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-03</title>
   </rect>
-  <rect x="358" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="344" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-04</title>
   </rect>
-  <rect x="372" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="358" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-05</title>
   </rect>
-  <rect x="372" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="358" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-06</title>
   </rect>
-  <rect x="372" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="358" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-07</title>
   </rect>
-  <rect x="372" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="358" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-08</title>
   </rect>
-  <rect x="372" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="358" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-09</title>
   </rect>
-  <rect x="372" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="358" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-10</title>
   </rect>
-  <rect x="372" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="358" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-11</title>
   </rect>
-  <rect x="386" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="372" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-12</title>
   </rect>
-  <rect x="386" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="372" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-13</title>
   </rect>
-  <rect x="386" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="372" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-14</title>
   </rect>
-  <rect x="386" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="372" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-15</title>
   </rect>
-  <rect x="386" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="372" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-16</title>
   </rect>
-  <rect x="386" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="372" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-17</title>
   </rect>
-  <rect x="386" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="372" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-18</title>
   </rect>
-  <rect x="400" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="386" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-19</title>
   </rect>
-  <rect x="400" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="386" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-20</title>
   </rect>
-  <rect x="400" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="386" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-21</title>
   </rect>
-  <rect x="400" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="386" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-22</title>
   </rect>
-  <rect x="400" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="386" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-23</title>
   </rect>
-  <rect x="400" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="386" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-24</title>
   </rect>
-  <rect x="400" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="386" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-25</title>
   </rect>
-  <rect x="414" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="400" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-26</title>
   </rect>
-  <rect x="414" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="400" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-27</title>
   </rect>
-  <rect x="414" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="400" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-28</title>
   </rect>
-  <rect x="414" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="400" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-29</title>
   </rect>
-  <rect x="414" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="400" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-30</title>
   </rect>
-  <rect x="414" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="400" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-10-31</title>
   </rect>
-  <rect x="414" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="400" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-01</title>
   </rect>
-  <rect x="428" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="414" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-02</title>
   </rect>
-  <rect x="428" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="414" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-03</title>
   </rect>
-  <rect x="428" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="414" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-04</title>
   </rect>
-  <rect x="428" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="414" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-05</title>
   </rect>
-  <rect x="428" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="414" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-06</title>
   </rect>
-  <rect x="428" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="414" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-07</title>
   </rect>
-  <rect x="428" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="414" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-08</title>
   </rect>
-  <rect x="442" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="428" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-09</title>
   </rect>
-  <rect x="442" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="428" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-10</title>
   </rect>
-  <rect x="442" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="428" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-11</title>
   </rect>
-  <rect x="442" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="428" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-12</title>
   </rect>
-  <rect x="442" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="428" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-13</title>
   </rect>
-  <rect x="442" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="428" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-14</title>
   </rect>
-  <rect x="442" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="428" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-15</title>
   </rect>
-  <rect x="456" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="442" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-16</title>
   </rect>
-  <rect x="456" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="442" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-17</title>
   </rect>
-  <rect x="456" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="442" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-18</title>
   </rect>
-  <rect x="456" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="442" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-19</title>
   </rect>
-  <rect x="456" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="442" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-20</title>
   </rect>
-  <rect x="456" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="442" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-21</title>
   </rect>
-  <rect x="456" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="442" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-22</title>
   </rect>
-  <rect x="470" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="456" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-23</title>
   </rect>
-  <rect x="470" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="456" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-24</title>
   </rect>
-  <rect x="470" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="456" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-25</title>
   </rect>
-  <rect x="470" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="456" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-26</title>
   </rect>
-  <rect x="470" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="456" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-27</title>
   </rect>
-  <rect x="470" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="456" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-28</title>
   </rect>
-  <rect x="470" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="456" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-29</title>
   </rect>
-  <rect x="484" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="470" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-11-30</title>
   </rect>
-  <rect x="484" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="470" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-01</title>
   </rect>
-  <rect x="484" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="470" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-02</title>
   </rect>
-  <rect x="484" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="470" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-03</title>
   </rect>
-  <rect x="484" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="470" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-04</title>
   </rect>
-  <rect x="484" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="470" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-05</title>
   </rect>
-  <rect x="484" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="470" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-06</title>
   </rect>
-  <rect x="498" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="484" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-07</title>
   </rect>
-  <rect x="498" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="484" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-08</title>
   </rect>
-  <rect x="498" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="484" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-09</title>
   </rect>
-  <rect x="498" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="484" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-10</title>
   </rect>
-  <rect x="498" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="484" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-11</title>
   </rect>
-  <rect x="498" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="484" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-12</title>
   </rect>
-  <rect x="498" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="484" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-13</title>
   </rect>
-  <rect x="512" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="498" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-14</title>
   </rect>
-  <rect x="512" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="498" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-15</title>
   </rect>
-  <rect x="512" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="498" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-16</title>
   </rect>
-  <rect x="512" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="498" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-17</title>
   </rect>
-  <rect x="512" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="498" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-18</title>
   </rect>
-  <rect x="512" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="498" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-19</title>
   </rect>
-  <rect x="512" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="498" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-20</title>
   </rect>
-  <rect x="526" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="512" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-21</title>
   </rect>
-  <rect x="526" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="512" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-22</title>
   </rect>
-  <rect x="526" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="512" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-23</title>
   </rect>
-  <rect x="526" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="512" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-24</title>
   </rect>
-  <rect x="526" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="512" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-25</title>
   </rect>
-  <rect x="526" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="512" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-26</title>
   </rect>
-  <rect x="526" y="139" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="512" y="139" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-27</title>
   </rect>
-  <rect x="540" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="526" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-28</title>
   </rect>
-  <rect x="540" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="526" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-29</title>
   </rect>
-  <rect x="540" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="526" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-30</title>
   </rect>
-  <rect x="540" y="97" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="526" y="97" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2025-12-31</title>
   </rect>
-  <rect x="540" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="526" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2026-01-01</title>
   </rect>
-  <rect x="540" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="526" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2026-01-02</title>
   </rect>
-  <rect x="540" y="139" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="526" y="139" width="11" height="11" rx="2" fill="#8c1535">
     <title>491 messages on 2026-01-03</title>
   </rect>
-  <rect x="554" y="55" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="540" y="55" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>84 messages on 2026-01-04</title>
   </rect>
-  <rect x="554" y="69" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="540" y="69" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>3 messages on 2026-01-05</title>
   </rect>
-  <rect x="554" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="540" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2026-01-06</title>
   </rect>
-  <rect x="554" y="97" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="540" y="97" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>15 messages on 2026-01-07</title>
   </rect>
-  <rect x="554" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="540" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2026-01-08</title>
   </rect>
-  <rect x="554" y="125" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="540" y="125" width="11" height="11" rx="2" fill="#ff2d55">
     <title>33,046 messages on 2026-01-09</title>
   </rect>
-  <rect x="554" y="139" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="540" y="139" width="11" height="11" rx="2" fill="#8c1535">
     <title>690 messages on 2026-01-10</title>
   </rect>
-  <rect x="568" y="55" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="554" y="55" width="11" height="11" rx="2" fill="#ff2d55">
     <title>20,595 messages on 2026-01-11</title>
   </rect>
-  <rect x="568" y="69" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="554" y="69" width="11" height="11" rx="2" fill="#CC103C">
     <title>7,516 messages on 2026-01-12</title>
   </rect>
-  <rect x="568" y="83" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="554" y="83" width="11" height="11" rx="2" fill="#CC103C">
     <title>11,708 messages on 2026-01-13</title>
   </rect>
-  <rect x="568" y="97" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="554" y="97" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>69 messages on 2026-01-14</title>
   </rect>
-  <rect x="568" y="111" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="554" y="111" width="11" height="11" rx="2" fill="#8c1535">
     <title>471 messages on 2026-01-15</title>
   </rect>
-  <rect x="568" y="125" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="554" y="125" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>277 messages on 2026-01-16</title>
   </rect>
-  <rect x="568" y="139" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="554" y="139" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>200 messages on 2026-01-17</title>
   </rect>
-  <rect x="582" y="55" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="568" y="55" width="11" height="11" rx="2" fill="#8c1535">
     <title>885 messages on 2026-01-18</title>
   </rect>
-  <rect x="582" y="69" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="568" y="69" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2026-01-19</title>
   </rect>
-  <rect x="582" y="83" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="568" y="83" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>184 messages on 2026-01-20</title>
   </rect>
-  <rect x="582" y="97" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="568" y="97" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>65 messages on 2026-01-21</title>
   </rect>
-  <rect x="582" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="568" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2026-01-22</title>
   </rect>
-  <rect x="582" y="125" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="568" y="125" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>3 messages on 2026-01-23</title>
   </rect>
-  <rect x="582" y="139" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="568" y="139" width="11" height="11" rx="2" fill="#8c1535">
     <title>491 messages on 2026-01-24</title>
   </rect>
-  <rect x="596" y="55" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="582" y="55" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>328 messages on 2026-01-25</title>
   </rect>
-  <rect x="596" y="69" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="582" y="69" width="11" height="11" rx="2" fill="#8c1535">
     <title>554 messages on 2026-01-26</title>
   </rect>
-  <rect x="596" y="83" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="582" y="83" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>58 messages on 2026-01-27</title>
   </rect>
-  <rect x="596" y="97" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="582" y="97" width="11" height="11" rx="2" fill="#8c1535">
     <title>436 messages on 2026-01-28</title>
   </rect>
-  <rect x="596" y="111" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="582" y="111" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>82 messages on 2026-01-29</title>
   </rect>
-  <rect x="596" y="125" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="582" y="125" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>91 messages on 2026-01-30</title>
   </rect>
-  <rect x="596" y="139" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="582" y="139" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>181 messages on 2026-01-31</title>
   </rect>
-  <rect x="610" y="55" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="596" y="55" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>181 messages on 2026-02-01</title>
   </rect>
-  <rect x="610" y="69" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="596" y="69" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>50 messages on 2026-02-02</title>
   </rect>
-  <rect x="610" y="83" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="596" y="83" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>18 messages on 2026-02-03</title>
   </rect>
-  <rect x="610" y="97" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="596" y="97" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>62 messages on 2026-02-04</title>
   </rect>
-  <rect x="610" y="111" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="596" y="111" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2026-02-05</title>
   </rect>
-  <rect x="610" y="125" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="596" y="125" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>85 messages on 2026-02-06</title>
   </rect>
-  <rect x="610" y="139" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="596" y="139" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>410 messages on 2026-02-07</title>
   </rect>
-  <rect x="624" y="55" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="610" y="55" width="11" height="11" rx="2" fill="#8c1535">
     <title>3,110 messages on 2026-02-08</title>
   </rect>
-  <rect x="624" y="69" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="610" y="69" width="11" height="11" rx="2" fill="#8c1535">
     <title>685 messages on 2026-02-09</title>
   </rect>
-  <rect x="624" y="83" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="610" y="83" width="11" height="11" rx="2" fill="#8c1535">
     <title>2,299 messages on 2026-02-10</title>
   </rect>
-  <rect x="624" y="97" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="610" y="97" width="11" height="11" rx="2" fill="#CC103C">
     <title>4,090 messages on 2026-02-11</title>
   </rect>
-  <rect x="624" y="111" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="610" y="111" width="11" height="11" rx="2" fill="#8c1535">
     <title>1,851 messages on 2026-02-12</title>
   </rect>
-  <rect x="624" y="125" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="610" y="125" width="11" height="11" rx="2" fill="#8c1535">
     <title>446 messages on 2026-02-13</title>
   </rect>
-  <rect x="624" y="139" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="610" y="139" width="11" height="11" rx="2" fill="#CC103C">
     <title>4,846 messages on 2026-02-14</title>
   </rect>
-  <rect x="638" y="55" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="624" y="55" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2026-02-15</title>
   </rect>
-  <rect x="638" y="69" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="624" y="69" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>16 messages on 2026-02-16</title>
   </rect>
-  <rect x="638" y="83" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="624" y="83" width="11" height="11" rx="2" fill="#8c1535">
     <title>969 messages on 2026-02-17</title>
   </rect>
-  <rect x="638" y="97" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="624" y="97" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>243 messages on 2026-02-18</title>
   </rect>
-  <rect x="638" y="111" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="624" y="111" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>15 messages on 2026-02-19</title>
   </rect>
-  <rect x="638" y="125" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="624" y="125" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2026-02-20</title>
   </rect>
-  <rect x="638" y="139" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="624" y="139" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>97 messages on 2026-02-21</title>
   </rect>
-  <rect x="652" y="55" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="638" y="55" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>169 messages on 2026-02-22</title>
   </rect>
-  <rect x="652" y="69" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="638" y="69" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>6 messages on 2026-02-23</title>
   </rect>
-  <rect x="652" y="83" width="11" height="11" rx="2" fill="#161b22">
+  <rect x="638" y="83" width="11" height="11" rx="2" fill="#161b22">
     <title>No activity on 2026-02-24</title>
   </rect>
-  <rect x="652" y="97" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="638" y="97" width="11" height="11" rx="2" fill="#8c1535">
     <title>415 messages on 2026-02-25</title>
   </rect>
-  <rect x="652" y="111" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="638" y="111" width="11" height="11" rx="2" fill="#CC103C">
     <title>4,607 messages on 2026-02-26</title>
   </rect>
-  <rect x="652" y="125" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="638" y="125" width="11" height="11" rx="2" fill="#CC103C">
     <title>3,262 messages on 2026-02-27</title>
   </rect>
-  <rect x="652" y="139" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="638" y="139" width="11" height="11" rx="2" fill="#CC103C">
     <title>3,794 messages on 2026-02-28</title>
   </rect>
-  <rect x="666" y="55" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="652" y="55" width="11" height="11" rx="2" fill="#8c1535">
     <title>1,303 messages on 2026-03-01</title>
   </rect>
-  <rect x="666" y="69" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="652" y="69" width="11" height="11" rx="2" fill="#CC103C">
     <title>5,920 messages on 2026-03-02</title>
   </rect>
-  <rect x="666" y="83" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="652" y="83" width="11" height="11" rx="2" fill="#8c1535">
     <title>3,157 messages on 2026-03-03</title>
   </rect>
-  <rect x="666" y="97" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="652" y="97" width="11" height="11" rx="2" fill="#CC103C">
     <title>8,768 messages on 2026-03-04</title>
   </rect>
-  <rect x="666" y="111" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="652" y="111" width="11" height="11" rx="2" fill="#8c1535">
     <title>3,210 messages on 2026-03-05</title>
   </rect>
-  <rect x="666" y="125" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="652" y="125" width="11" height="11" rx="2" fill="#8c1535">
     <title>2,176 messages on 2026-03-06</title>
   </rect>
-  <rect x="666" y="139" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="652" y="139" width="11" height="11" rx="2" fill="#CC103C">
     <title>4,817 messages on 2026-03-07</title>
   </rect>
-  <rect x="680" y="55" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="666" y="55" width="11" height="11" rx="2" fill="#CC103C">
     <title>4,019 messages on 2026-03-08</title>
   </rect>
-  <rect x="680" y="69" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="666" y="69" width="11" height="11" rx="2" fill="#8c1535">
     <title>456 messages on 2026-03-09</title>
   </rect>
-  <rect x="680" y="83" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="666" y="83" width="11" height="11" rx="2" fill="#CC103C">
     <title>3,989 messages on 2026-03-10</title>
   </rect>
-  <rect x="680" y="97" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="666" y="97" width="11" height="11" rx="2" fill="#8c1535">
     <title>2,053 messages on 2026-03-11</title>
   </rect>
-  <rect x="680" y="111" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="666" y="111" width="11" height="11" rx="2" fill="#CC103C">
     <title>4,322 messages on 2026-03-12</title>
   </rect>
-  <rect x="680" y="125" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="666" y="125" width="11" height="11" rx="2" fill="#CC103C">
     <title>14,194 messages on 2026-03-13</title>
   </rect>
-  <rect x="680" y="139" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="666" y="139" width="11" height="11" rx="2" fill="#CC103C">
     <title>12,277 messages on 2026-03-14</title>
   </rect>
-  <rect x="694" y="55" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="680" y="55" width="11" height="11" rx="2" fill="#CC103C">
     <title>7,290 messages on 2026-03-15</title>
   </rect>
-  <rect x="694" y="69" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="680" y="69" width="11" height="11" rx="2" fill="#CC103C">
     <title>11,282 messages on 2026-03-16</title>
   </rect>
-  <rect x="694" y="83" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="680" y="83" width="11" height="11" rx="2" fill="#CC103C">
     <title>11,798 messages on 2026-03-17</title>
   </rect>
-  <rect x="694" y="97" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="680" y="97" width="11" height="11" rx="2" fill="#8c1535">
     <title>2,542 messages on 2026-03-18</title>
   </rect>
-  <rect x="694" y="111" width="11" height="11" rx="2" fill="#5e1a2a">
+  <rect x="680" y="111" width="11" height="11" rx="2" fill="#5e1a2a">
     <title>343 messages on 2026-03-19</title>
   </rect>
-  <rect x="694" y="125" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="680" y="125" width="11" height="11" rx="2" fill="#CC103C">
     <title>4,942 messages on 2026-03-20</title>
   </rect>
-  <rect x="694" y="139" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="680" y="139" width="11" height="11" rx="2" fill="#8c1535">
     <title>512 messages on 2026-03-21</title>
   </rect>
-  <rect x="708" y="55" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="694" y="55" width="11" height="11" rx="2" fill="#ff2d55">
     <title>32,435 messages on 2026-03-22</title>
   </rect>
-  <rect x="708" y="69" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="694" y="69" width="11" height="11" rx="2" fill="#ff2d55">
     <title>25,152 messages on 2026-03-23</title>
   </rect>
-  <rect x="708" y="83" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="694" y="83" width="11" height="11" rx="2" fill="#8c1535">
     <title>1,474 messages on 2026-03-24</title>
   </rect>
-  <rect x="708" y="97" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="694" y="97" width="11" height="11" rx="2" fill="#ff2d55">
     <title>14,209 messages on 2026-03-25</title>
   </rect>
-  <rect x="708" y="111" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="694" y="111" width="11" height="11" rx="2" fill="#ff2d55">
     <title>43,039 messages on 2026-03-26</title>
   </rect>
-  <rect x="708" y="125" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="694" y="125" width="11" height="11" rx="2" fill="#ff2d55">
     <title>80,186 messages on 2026-03-27</title>
   </rect>
-  <rect x="708" y="139" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="694" y="139" width="11" height="11" rx="2" fill="#ff2d55">
     <title>48,420 messages on 2026-03-28</title>
   </rect>
-  <rect x="722" y="55" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="708" y="55" width="11" height="11" rx="2" fill="#ff2d55">
     <title>31,446 messages on 2026-03-29</title>
   </rect>
-  <rect x="722" y="69" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="708" y="69" width="11" height="11" rx="2" fill="#ff2d55">
     <title>82,576 messages on 2026-03-30</title>
   </rect>
-  <rect x="722" y="83" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="708" y="83" width="11" height="11" rx="2" fill="#ff2d55">
     <title>40,748 messages on 2026-03-31</title>
   </rect>
-  <rect x="722" y="97" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="708" y="97" width="11" height="11" rx="2" fill="#ff2d55">
     <title>56,067 messages on 2026-04-01</title>
   </rect>
-  <rect x="722" y="111" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="708" y="111" width="11" height="11" rx="2" fill="#CC103C">
     <title>8,748 messages on 2026-04-02</title>
   </rect>
-  <rect x="722" y="125" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="708" y="125" width="11" height="11" rx="2" fill="#ff2d55">
     <title>22,821 messages on 2026-04-03</title>
   </rect>
-  <rect x="722" y="139" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="708" y="139" width="11" height="11" rx="2" fill="#ff2d55">
     <title>23,082 messages on 2026-04-04</title>
   </rect>
-  <rect x="736" y="55" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="722" y="55" width="11" height="11" rx="2" fill="#ff2d55">
     <title>19,090 messages on 2026-04-05</title>
   </rect>
-  <rect x="736" y="69" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="722" y="69" width="11" height="11" rx="2" fill="#ff2d55">
     <title>22,883 messages on 2026-04-06</title>
   </rect>
-  <rect x="736" y="83" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="722" y="83" width="11" height="11" rx="2" fill="#ff2d55">
     <title>18,834 messages on 2026-04-07</title>
   </rect>
-  <rect x="736" y="97" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="722" y="97" width="11" height="11" rx="2" fill="#ff2d55">
     <title>27,409 messages on 2026-04-08</title>
   </rect>
-  <rect x="736" y="111" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="722" y="111" width="11" height="11" rx="2" fill="#CC103C">
     <title>6,679 messages on 2026-04-09</title>
   </rect>
-  <rect x="736" y="125" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="722" y="125" width="11" height="11" rx="2" fill="#CC103C">
     <title>10,037 messages on 2026-04-10</title>
   </rect>
-  <rect x="736" y="139" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="722" y="139" width="11" height="11" rx="2" fill="#8c1535">
     <title>447 messages on 2026-04-11</title>
   </rect>
-  <rect x="750" y="55" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="736" y="55" width="11" height="11" rx="2" fill="#ff2d55">
     <title>19,178 messages on 2026-04-12</title>
   </rect>
-  <rect x="750" y="69" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="736" y="69" width="11" height="11" rx="2" fill="#8c1535">
     <title>1,052 messages on 2026-04-13</title>
   </rect>
-  <rect x="750" y="83" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="736" y="83" width="11" height="11" rx="2" fill="#ff2d55">
     <title>26,723 messages on 2026-04-14</title>
   </rect>
-  <rect x="750" y="97" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="736" y="97" width="11" height="11" rx="2" fill="#ff2d55">
     <title>20,605 messages on 2026-04-15</title>
   </rect>
-  <rect x="750" y="111" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="736" y="111" width="11" height="11" rx="2" fill="#ff2d55">
     <title>22,104 messages on 2026-04-16</title>
   </rect>
-  <rect x="750" y="125" width="11" height="11" rx="2" fill="#8c1535">
+  <rect x="736" y="125" width="11" height="11" rx="2" fill="#8c1535">
     <title>1,873 messages on 2026-04-17</title>
   </rect>
-  <rect x="750" y="139" width="11" height="11" rx="2" fill="#CC103C">
+  <rect x="736" y="139" width="11" height="11" rx="2" fill="#CC103C">
     <title>11,553 messages on 2026-04-18</title>
   </rect>
-  <rect x="764" y="55" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="750" y="55" width="11" height="11" rx="2" fill="#ff2d55">
     <title>32,775 messages on 2026-04-19</title>
   </rect>
-  <rect x="764" y="69" width="11" height="11" rx="2" fill="#ff2d55">
+  <rect x="750" y="69" width="11" height="11" rx="2" fill="#ff2d55">
     <title>39,024 messages on 2026-04-20</title>
   </rect>
-  <rect x="764" y="83" width="11" height="11" rx="2" fill="#ff2d55">
-    <title>30,105 messages on 2026-04-21</title>
+  <rect x="750" y="83" width="11" height="11" rx="2" fill="#ff2d55">
+    <title>30,108 messages on 2026-04-21</title>
   </rect>
-  <rect x="764" y="97" width="11" height="11" rx="2" fill="#CC103C">
-    <title>4,303 messages on 2026-04-22</title>
+  <rect x="750" y="97" width="11" height="11" rx="2" fill="#CC103C">
+    <title>6,661 messages on 2026-04-22</title>
   </rect>
-  <rect x="764" y="111" width="11" height="11" rx="2" fill="#161b22">
-    <title>No activity on 2026-04-23</title>
+  <rect x="750" y="111" width="11" height="11" rx="2" fill="#CC103C">
+    <title>7,577 messages on 2026-04-23</title>
+  </rect>
+  <rect x="750" y="125" width="11" height="11" rx="2" fill="#ff2d55">
+    <title>31,633 messages on 2026-04-24</title>
+  </rect>
+  <rect x="750" y="139" width="11" height="11" rx="2" fill="#CC103C">
+    <title>8,044 messages on 2026-04-25</title>
+  </rect>
+  <rect x="764" y="55" width="11" height="11" rx="2" fill="#161b22">
+    <title>No activity on 2026-04-26</title>
   </rect>
   <text x="36" y="168" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Less</text>
   <rect x="66" y="159" width="11" height="11" rx="2" fill="#161b22"/>
@@ -1131,5 +1119,5 @@
   <rect x="105" y="159" width="11" height="11" rx="2" fill="#CC103C"/>
   <rect x="118" y="159" width="11" height="11" rx="2" fill="#ff2d55"/>
   <text x="135" y="168" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">More</text>
-  <text x="598" y="168" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Current streak: 0d  |  Longest: 57d</text>
+  <text x="598" y="168" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="normal">Current streak: 0d  |  Longest: 60d</text>
 </svg>
