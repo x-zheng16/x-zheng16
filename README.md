@@ -67,7 +67,7 @@ My research develops robust and efficient RL algorithms for **trustworthy decisi
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=x-zheng16&hide_border=true&background=0d1117&ring=CC103C&fire=CC103C&currStreakLabel=CC103C&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170" alt="GitHub Streak" />
+  <img src="cc-longest-streak.svg" alt="60d longest streak" />
 </p>
 
 <p align="center">
