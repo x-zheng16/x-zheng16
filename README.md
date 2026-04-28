@@ -40,7 +40,7 @@ My research develops robust and efficient RL algorithms for **red & blue teaming
 | Date    | Paper | Venue |
 | :-----: | ----- | :---: |
 | 2026.03 | [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/) | GitHub Preprint |
-| 2026.03 | [RedRFT: A Light-Weight Benchmark for RL-Based Red Teaming](https://arxiv.org/abs/2506.04302) | **FCS** |
+| 2026.03 | [OpenRedRL: A Light-Weight Benchmark for RL-Based Red Teaming](https://arxiv.org/abs/2506.04302) | **FCS** |
 | 2026.02 | [GenBreak: Red Teaming Text-to-Image Generators Using LLMs](https://arxiv.org/abs/2506.10047) | **CVPR** |
 | 2026.01 | [Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs](https://arxiv.org/abs/2601.21233) | arXiv Preprint |
 | 2026.01 | [Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety](https://arxiv.org/abs/2502.05206) | **FnT P&S** |
