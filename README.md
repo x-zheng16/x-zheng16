@@ -19,13 +19,7 @@
 
 I am a Research Assistant Professor at [HKAI-Sci](https://www.cityu.edu.hk/hkai-sci), City University of Hong Kong.
 I also work closely with [Prof. Xingjun Ma](https://xingjunm.github.io) at Fudan University.
-My research develops robust and efficient RL algorithms for **trustworthy decision-making** in real-world systems, with a focus on red/blue teaming for LLMs, vision-language models, and embodied agents.
-
-<table>
-<tr><td><b>Ph.D.</b></td><td>Computer Science, City University of Hong Kong (2024)</td></tr>
-<tr><td><b>M.S.</b></td><td>Control Science & Engineering, Tsinghua University (2019)</td></tr>
-<tr><td><b>B.S.</b></td><td>Automation & Mathematics (Dual Degree), Beihang University (2016)</td></tr>
-</table>
+My research develops robust and efficient RL algorithms for **red & blue teaming** of science and embodied agents.
 
 ---
 
