@@ -57,7 +57,7 @@ My research develops robust and efficient RL algorithms for **red & blue teaming
 ### GitHub Stats
 
 <p align="center">
-  <img src="cc-total-tokens.svg" alt="63.5B total tokens" />
+  <img src="cc-total-tokens.svg" alt="66.4B total tokens" />
 </p>
 
 <p align="center">
