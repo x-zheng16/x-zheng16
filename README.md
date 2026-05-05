@@ -39,10 +39,13 @@ My research develops robust and efficient RL algorithms for **red & blue teaming
 
 | Date    | Paper | Venue |
 | :-----: | ----- | :---: |
-| 2026.03 | [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/) | GitHub Preprint |
+| 2026.05 | [STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](https://arxiv.org/abs/2605.00699) | **ICML** |
+| 2026.05 | [Defense-to-Attack: Bypassing Weak Defenses Enables Stronger Jailbreaks in Vision-Language Models](https://doi.org/10.1016/j.patcog.2026.113805) | **Pattern Recognition** |
+| 2026.03 | [Safety in Embodied AI: Threats, Attacks and Defenses](https://openreview.net/forum?id=vJJRjc6JOi) | OpenReview Preprint |
 | 2026.03 | [OpenRedRL: A Light-Weight Benchmark for RL-Based Red Teaming](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51865-8) | **FCS** |
+| 2026.02 | [OptiLeak: Efficient Prompt Reconstruction via RL in Multi-tenant LLM Services](https://arxiv.org/abs/2602.20595) | arXiv Preprint |
 | 2026.02 | [GenBreak: Red Teaming Text-to-Image Generators Using LLMs](https://arxiv.org/abs/2506.10047) | **CVPR** |
-| 2026.01 | [Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs](https://arxiv.org/abs/2601.21233) | arXiv Preprint |
+| 2026.01 | [Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs](https://arxiv.org/abs/2601.21233) | **ICML** |
 | 2026.01 | [Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety](https://arxiv.org/abs/2502.05206) | **FnT P&S** |
 | 2025.01 | [BlueSuffix: Reinforced Blue Teaming for VLMs Against Jailbreak Attacks](https://arxiv.org/abs/2410.20971) | **ICLR** |
 | 2024.12 | [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) | **AAAI** |
