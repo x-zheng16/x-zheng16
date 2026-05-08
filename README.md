@@ -41,7 +41,7 @@ My research develops robust and efficient RL algorithms for **red & blue teaming
 | :-----: | ----- | :---: |
 | 2026.05 | [STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](https://arxiv.org/abs/2605.00699) | **ICML** |
 | 2026.05 | [Defense-to-Attack: Bypassing Weak Defenses Enables Stronger Jailbreaks in Vision-Language Models](https://doi.org/10.1016/j.patcog.2026.113805) | **Pattern Recognition** |
-| 2026.03 | [Safety in Embodied AI: Threats, Attacks and Defenses](https://openreview.net/forum?id=vJJRjc6JOi) | OpenReview Preprint |
+| 2026.05 | [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://arxiv.org/abs/2605.02900) | arXiv Preprint |
 | 2026.03 | [OpenRedRL: A Light-Weight Benchmark for RL-Based Red Teaming](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51865-8) | **FCS** |
 | 2026.02 | [OptiLeak: Efficient Prompt Reconstruction via RL in Multi-tenant LLM Services](https://arxiv.org/abs/2602.20595) | arXiv Preprint |
 | 2026.02 | [GenBreak: Red Teaming Text-to-Image Generators Using LLMs](https://arxiv.org/abs/2506.10047) | **CVPR** |
@@ -60,7 +60,7 @@ My research develops robust and efficient RL algorithms for **red & blue teaming
 ### GitHub Stats
 
 <p align="center">
-  <img src="cc-total-tokens.svg" alt="88.2B total tokens" />
+  <img src="cc-total-tokens.svg" alt="99.1B total tokens" />
 </p>
 
 <p align="center">
