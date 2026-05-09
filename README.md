@@ -57,26 +57,6 @@ My research develops robust and efficient RL algorithms for **red & blue teaming
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="cc-total-tokens.svg" alt="99.5B total tokens" />
-</p>
-
-<p align="center">
-  <img src="cc-longest-streak.svg" alt="60d longest streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="cc-heatmap-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="cc-heatmap-light.svg" />
-    <img alt="Claude Code usage heatmap" src="cc-heatmap-dark.svg" width="100%" />
-  </picture>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F0D43,25:A62156,50:CC103C,75:DA562B,100:DF7433&height=120&section=footer" width="100%" alt="footer" />
 </p>
