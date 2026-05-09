@@ -75,14 +75,6 @@ My research develops robust and efficient RL algorithms for **red & blue teaming
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="gh-heatmap-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="gh-heatmap-light.svg" />
-    <img alt="GitHub contribution heatmap" src="gh-heatmap-dark.svg" width="100%" />
-  </picture>
-</p>
-
 ---
 
 <p align="center">
