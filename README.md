@@ -47,6 +47,7 @@ My research develops robust and efficient RL algorithms for **red & blue teaming
 | 2026.02 | [GenBreak: Red Teaming Text-to-Image Generators Using LLMs](https://arxiv.org/abs/2506.10047) | **CVPR** |
 | 2026.01 | [Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs](https://arxiv.org/abs/2601.21233) | **ICML** |
 | 2026.01 | [Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety](https://arxiv.org/abs/2502.05206) | **FnT P&S** |
+| 2025.10 | [DropVLA: An Action-Level Backdoor Attack on Vision-Language-Action Models](https://arxiv.org/abs/2510.10932) | arXiv Preprint |
 | 2025.01 | [BlueSuffix: Reinforced Blue Teaming for VLMs Against Jailbreak Attacks](https://arxiv.org/abs/2410.20971) | **ICLR** |
 | 2024.12 | [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) | **AAAI** |
 | 2024.04 | [Constrained Intrinsic Motivation for Reinforcement Learning](https://arxiv.org/abs/2407.09247) | **IJCAI** |
