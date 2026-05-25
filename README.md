@@ -30,7 +30,7 @@ My research develops robust and efficient RL algorithms for **red & blue teaming
 | [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) | Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses (400+ Papers) | ![](https://img.shields.io/github/stars/x-zheng16/Awesome-Embodied-AI-Safety?style=social) |
 | [JustAsk](https://github.com/x-zheng16/JustAsk) | Curious Code Agents Reveal System Prompts in Frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/JustAsk?style=social) |
 | [System-Prompt-Open](https://github.com/x-zheng16/System-Prompt-Open) | Open database of system prompts extracted from frontier LLMs | ![](https://img.shields.io/github/stars/x-zheng16/System-Prompt-Open?style=social) |
-| [OpenRedRL](https://github.com/x-zheng16/OpenRedRL) | OpenRedRL: A Light-Weight Benchmark for RL-Based Red Teaming | ![](https://img.shields.io/github/stars/x-zheng16/OpenRedRL?style=social) |
+| [OpenRedRL](https://github.com/x-zheng16/OpenRedRL) | OpenRedRL: A Light-Weight Benchmark for RL-Based Red Teaming | ![](https://img.shields.io/github/stars/x-zheng16/OpenRedRL?style=social&cacheSeconds=3600) |
 | [ISC-Bench](https://github.com/wuyoscar/ISC-Bench)    | ISC-Bench: Internal Safety Collapse in Frontier LLMs          | ![](https://img.shields.io/github/stars/wuyoscar/ISC-Bench?style=social)    |
 
 ---
