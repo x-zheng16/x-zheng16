@@ -57,6 +57,18 @@ My research develops robust and efficient RL algorithms for **red & blue teaming
 
 ---
 
+### Professional Service
+
+🏅 **ICML 2026 Gold Reviewer Award** (Top 25%)
+
+| Role | Venues |
+| ---- | ------ |
+| **Program Committee** | NeurIPS 2026, ICML 2026, ICLR 2025/2026, CVPR 2026, ECCV 2026, AAAI 2025/2026, MM 2025/2026, ICRA 2026 |
+| **Journal Reviewer** | ACM Computing Surveys (CSUR), IEEE TPAMI, IEEE TDSC, IEEE TSC, IEEE TC |
+| **External Reviewer** | ACL 2026, NeurIPS 2025, ICNP 2025, ESORICS 2022, AsiaCCS 2022, RAID 2021, IEEE IoT-J |
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F0D43,25:A62156,50:CC103C,75:DA562B,100:DF7433&height=120&section=footer" width="100%" alt="footer" />
 </p>
