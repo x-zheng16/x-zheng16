@@ -19,7 +19,7 @@
 
 I am a Research Assistant Professor at [HKAI-Sci](https://www.cityu.edu.hk/hkai-sci), City University of Hong Kong, and Chief Scientist of [SciencePal 2.0](https://sciencepal.ai), a self-evolving science agent.
 I also work closely with [Prof. Xingjun Ma](https://xingjunm.github.io) at Fudan University.
-My research develops robust and efficient RL algorithms for **red & blue teaming** of science and embodied agents.
+My research develops robust and efficient RL algorithms for trustworthy science, computer-use, and embodied agents.
 
 ---
 
