@@ -39,6 +39,7 @@ My research develops robust and efficient RL algorithms for trustworthy science,
 
 | Date    | Paper | Venue |
 | :-----: | ----- | :---: |
+| 2026.06 | [DropVLA: An Action-Level Backdoor Attack on Vision-Language-Action Models](https://arxiv.org/abs/2510.10932) | **IROS'26** |
 | 2026.05 | [STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](https://arxiv.org/abs/2605.00699) | **ICML'26** |
 | 2026.05 | [Defense-to-Attack: Bypassing Weak Defenses Enables Stronger Jailbreaks in Vision-Language Models](https://doi.org/10.1016/j.patcog.2026.113805) | **Pattern Recognition** |
 | 2026.05 | [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://arxiv.org/abs/2605.02900) | arXiv Preprint |
