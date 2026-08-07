@@ -63,7 +63,7 @@ My research develops robust and efficient RL algorithms for trustworthy science,
 | Role | Venues |
 | ---- | ------ |
 | **Program Committee** | NeurIPS 2026, ICML 2026, ICLR 2025/2026, CVPR 2026, ECCV 2026, AAAI 2025/2026, MM 2025/2026, ICRA 2026 |
-| **Journal Reviewer** | ACM Computing Surveys (CSUR), IEEE TPAMI, IEEE TDSC, IEEE TSC, IEEE TC |
+| **Journal Reviewer** | ACM Computing Surveys (CSUR), IEEE TPAMI, IEEE TDSC, IEEE TSC, IEEE TC, TMLR |
 | **External Reviewer** | ACL 2026, NeurIPS 2025, ICNP 2025, ESORICS 2022, AsiaCCS 2022, RAID 2021, IEEE IoT-J |
 
 ---
