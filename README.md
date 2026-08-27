@@ -40,6 +40,8 @@ My research develops robust and efficient RL algorithms for trustworthy science,
 | Date    | Paper | Venue |
 | :-----: | ----- | :---: |
 | 2026.08 | [HarmProfile: Characterizing Harmful Distributions in Frontier LLMs](https://arxiv.org/abs/2608.14577) | **EMNLP'26 Findings** |
+| 2026.08 | [Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents](https://arxiv.org/abs/2608.12851) | arXiv Preprint |
+| 2026.07 | [Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming](https://arxiv.org/abs/2607.11698) | arXiv Preprint |
 | 2026.06 | [DropVLA: An Action-Level Backdoor Attack on Vision-Language-Action Models](https://arxiv.org/abs/2510.10932) | **IROS'26** |
 | 2026.05 | [STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](https://arxiv.org/abs/2605.00699) | **ICML'26** |
 | 2026.05 | [Defense-to-Attack: Bypassing Weak Defenses Enables Stronger Jailbreaks in Vision-Language Models](https://doi.org/10.1016/j.patcog.2026.113805) | **Pattern Recognition** |
