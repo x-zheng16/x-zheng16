@@ -1,17 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DF7433,25:DA562B,50:CC103C,75:A62156,100:9F0D43&height=220&section=header&text=Xiang%20Zheng&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Research%20Assistant%20Professor%2C%20Hong%20Kong%20Institute%20of%20AI%20for%20Science%2C%20City%20University%20of%20Hong%20Kong&descAlignY=56&descSize=18&descColor=f0d0d8&animation=fadeIn" width="100%" alt="header" />
-</p>
+## Xiang Zheng
 
-<p align="center">
-  <img src="research-interests.svg" alt="Research Interests" />
-</p>
-
-<p align="center">
-  <a href="https://x-zheng16.github.io"><img src="https://img.shields.io/badge/Homepage-x--zheng16.github.io-CC103C?style=flat-square&logo=homepage&logoColor=white" alt="Website" /></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=lqirTjkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;
-  <a href="mailto:xiang.zheng@cityu.edu.hk"><img src="https://img.shields.io/badge/Email-xiang.zheng%40cityu.edu.hk-0078D4?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=x-zheng16&style=flat-square&color=CC103C&label=Profile+Views" alt="Profile Views" />
-</p>
+[Homepage](https://x-zheng16.github.io) · [Google Scholar](https://scholar.google.com/citations?user=lqirTjkAAAAJ) · [ORCID](https://orcid.org/0000-0002-2990-2169) · [OpenReview](https://openreview.net/profile?id=~Xiang_Zheng4) · [Email](mailto:xiang.zheng@cityu.edu.hk)
 
 ---
 
@@ -70,9 +59,3 @@ My research develops robust and efficient RL algorithms for trustworthy science,
 | **Program Committee** | NeurIPS 2026, ICML 2026, ICLR 2025/2026, CVPR 2026, ECCV 2026, AAAI 2025/2026, MM 2025/2026, ICRA 2026 |
 | **Journal Reviewer** | ACM Computing Surveys (CSUR), IEEE TPAMI, IEEE TDSC, IEEE TSC, IEEE TC, TMLR |
 | **External Reviewer** | ACL 2026, NeurIPS 2025, ICNP 2025, ESORICS 2022, AsiaCCS 2022, RAID 2021, IEEE IoT-J |
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F0D43,25:A62156,50:CC103C,75:DA562B,100:DF7433&height=120&section=footer" width="100%" alt="footer" />
-</p>
