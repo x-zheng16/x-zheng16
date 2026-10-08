@@ -39,6 +39,8 @@ My research develops robust and efficient RL algorithms for trustworthy science,
 
 | Date    | Paper | Venue |
 | :-----: | ----- | :---: |
+| 2026.09 | [VEX-Bench: Benchmarking Verification Complexity of LLM-Generated Misinformation](https://openreview.net/forum?id=xYPvwioYRg) | **NeurIPS'26 E&D** |
+| 2026.09 | [Internal Safety Collapse in Frontier Large Language Models](https://arxiv.org/abs/2603.23509) | **NeurIPS'26** |
 | 2026.08 | [HarmProfile: Characterizing Harmful Distributions in Frontier LLMs](https://arxiv.org/abs/2608.14577) | **EMNLP'26 Findings** |
 | 2026.08 | [Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents](https://arxiv.org/abs/2608.12851) | arXiv Preprint |
 | 2026.07 | [Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming](https://arxiv.org/abs/2607.11698) | arXiv Preprint |
